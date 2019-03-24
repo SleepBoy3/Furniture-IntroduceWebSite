@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/lib/jquery,WebRoot/lib/amazeui/amazeui.ie8polyfill.js
+validator.Unchecked=

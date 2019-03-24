@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <display-name></display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>IndexSer</servlet-name>
+    <servlet-class>com.ysd.servlet.IndexSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ContactSer</servlet-name>
+    <servlet-class>com.ysd.servlet.ContactSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FootSer</servlet-name>
+    <servlet-class>com.ysd.servlet.FootSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>HeadSer</servlet-name>
+    <servlet-class>com.ysd.servlet.HeadSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AboutSer</servlet-name>
+    <servlet-class>com.ysd.servlet.AboutSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LiuyanSer</servlet-name>
+    <servlet-class>com.ysd.servlet.LiuyanSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ProductInfoSer</servlet-name>
+    <servlet-class>com.ysd.servlet.ProductInfoSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ProductAllSer</servlet-name>
+    <servlet-class>com.ysd.servlet.ProductAllSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ProductClassSer</servlet-name>
+    <servlet-class>com.ysd.servlet.ProductClassSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NewsAllSer</servlet-name>
+    <servlet-class>com.ysd.servlet.NewsAllSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NewsClassSer</servlet-name>
+    <servlet-class>com.ysd.servlet.NewsClassSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NewsInfoSer</servlet-name>
+    <servlet-class>com.ysd.servlet.NewsInfoSer</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BaseServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.BaseServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ProductClassServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.ProductClassServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ProductServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.ProductServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NewsServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.NewsServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LiuYanServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.LiuYanServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ImagesServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.ImagesServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SheJiShiServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.SheJiShiServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>GongSiInfoServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.GongSiInfoServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NewsClassServlet</servlet-name>
+    <servlet-class>com.houtai.servlet.NewsClassServlet</servlet-class>
+  </servlet>
+
+  
+  
+  
+  
+  
+  
+  
+
+    <filter>
+    <filter-name>LoginFilter</filter-name>
+    <filter-class>com.ysd.filter.LoginFilter</filter-class>
+  </filter>
+ <filter-mapping>
+    <filter-name>LoginFilter</filter-name>
+    <url-pattern>/manae/*</url-pattern>
+  </filter-mapping> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>IndexSer</servlet-name>
+    <url-pattern>/IndexSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ContactSer</servlet-name>
+    <url-pattern>/ContactSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FootSer</servlet-name>
+    <url-pattern>/FootSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HeadSer</servlet-name>
+    <url-pattern>/HeadSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AboutSer</servlet-name>
+    <url-pattern>/AboutSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LiuyanSer</servlet-name>
+    <url-pattern>/LiuyanSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ProductInfoSer</servlet-name>
+    <url-pattern>/ProductInfoSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ProductAllSer</servlet-name>
+    <url-pattern>/ProductAllSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ProductClassSer</servlet-name>
+    <url-pattern>/ProductClassSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NewsAllSer</servlet-name>
+    <url-pattern>/NewsAllSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NewsClassSer</servlet-name>
+    <url-pattern>/NewsClassSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NewsInfoSer</servlet-name>
+    <url-pattern>/NewsInfoSer</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BaseServlet</servlet-name>
+    <url-pattern>/BaseServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ProductClassServlet</servlet-name>
+    <url-pattern>/ProductClassServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ProductServlet</servlet-name>
+    <url-pattern>/ProductServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NewsServlet</servlet-name>
+    <url-pattern>/NewsServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LiuYanServlet</servlet-name>
+    <url-pattern>/LiuYanServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ImagesServlet</servlet-name>
+    <url-pattern>/ImagesServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SheJiShiServlet</servlet-name>
+    <url-pattern>/SheJiShiServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GongSiInfoServlet</servlet-name>
+    <url-pattern>/GongSiInfoServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NewsClassServlet</servlet-name>
+    <url-pattern>/NewsClassServlet</url-pattern>
+  </servlet-mapping>
+  
+ 
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+
+</web-app>
